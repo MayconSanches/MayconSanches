@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MayconSanches- 👀 I’m interested in  data scient;
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @MayconSanches- 👀 I’m interested in  developer;
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on  codigos
 - 📫 How to reach me maycon_sanches@outlook.com
 
